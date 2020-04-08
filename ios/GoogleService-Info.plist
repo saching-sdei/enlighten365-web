@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1048240127393-pih12mkn8t4eepd6os0tr03h8ggj4hhj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048240127393-pih12mkn8t4eepd6os0tr03h8ggj4hhj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkH2ZhwYAa7b4oR16Sa7C0L5JuEu_eagk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048240127393</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.enlighten</string>
+	<key>PROJECT_ID</key>
+	<string>enlighten365-770ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enlighten365-770ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048240127393:ios:d2118776c4029a78ec1fe0</string>
+	<key>DATABASE_URL</key>
+	<string>https://enlighten365-770ac.firebaseio.com</string>
+</dict>
+</plist>
